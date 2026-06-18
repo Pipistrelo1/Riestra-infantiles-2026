@@ -10,11 +10,11 @@
             "archivo": "Valores_2014_evolución.xlsx"
         }
     ],
-     {
-            "nombre":  "Mediciones categoria 2014",
-            "archivo": "Valores_2014_evolución.xlsx"
+        {
+            "nombre":  "Mediciones categoria 2013",
+            "archivo": "leeme.xlsx"
         }
-],
+    ],
     "informes": [
         {
             "nombre":  "Informe Equipo CAT 2014 | Junio 2025",
