@@ -10,10 +10,15 @@
             "archivo": "Valores_2014_evolución.xlsx"
         }
     ],
-     {
-            "nombre":  "Mediciones categoria 2013",
-            "archivo": "a.xlsx"
-        }
+    {
+        "nombre":  "Mediciones categoria 2015",
+        "archivo": "mediciones-junio-2025.xlsx"
+    },
+    {
+        "nombre":  "Mediciones categoria 2013",
+        "archivo": "mediciones-julio-2025.xlsx"
+    }
+]
 
     "informes": [
         {
